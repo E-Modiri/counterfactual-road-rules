@@ -84,12 +84,13 @@ We built everything in `app.py` during the hacking window: the challenge engine,
 - **Gemma 4:** runs inside the app.
 
 ## Team
-
-**Team name:** _TEAM NAME_
+## 🥷 Team Neural Ninja 🧠⚡
 
 | Name | GitHub | LinkedIn |
 |---|---|---|
-| _Full name_ | _@github_ | _linkedin.com/in/…_ |
+| Fatemeh Sadat Masoumi | [https://github.com/Nadia-Mas](https://github.com/Nadia-Mas) | [https://www.linkedin.com/in/fatemeh-sadat-masoumi/](https://www.linkedin.com/in/fatemeh-sadat-masoumi/) |
+| Rakib Ul Haq | [https://github.com/](https://github.com/Rakib-Ul-Haque) | [https://www.linkedin.com/in/rakib-ul-h-9415aa115/](https://www.linkedin.com/in/rakib-ul-h-9415aa115/) |
+| Ensieh Modiridovom | [https://github.com/E-Modiri](https://github.com/E-Modiri) | [https://www.linkedin.com/in/ensieh-modiridovom/](https://www.linkedin.com/in/ensieh-modiridovom-937a4a122/) |
 
 ## License
 
