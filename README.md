@@ -89,7 +89,7 @@ We built everything in `app.py` during the hacking window: the challenge engine,
 | Name | GitHub | LinkedIn |
 |---|---|---|
 | Fatemeh Sadat Masoumi | [https://github.com/Nadia-Mas](https://github.com/Nadia-Mas) | [https://www.linkedin.com/in/fatemeh-sadat-masoumi/](https://www.linkedin.com/in/fatemeh-sadat-masoumi/) |
-| Rakib Ul Haq | [https://github.com/](https://github.com/Rakib-Ul-Haque) | [https://www.linkedin.com/in/rakib-ul-h-9415aa115/](https://www.linkedin.com/in/rakib-ul-h-9415aa115/) |
+| Rakib Ul Haque | [https://github.com/](https://github.com/Rakib-Ul-Haque) | [https://www.linkedin.com/in/rakib-ul-h-9415aa115/](https://www.linkedin.com/in/rakib-ul-h-9415aa115/) |
 | Ensieh Modiridovom | [https://github.com/E-Modiri](https://github.com/E-Modiri) | [https://www.linkedin.com/in/ensieh-modiridovom/](https://www.linkedin.com/in/ensieh-modiridovom-937a4a122/) |
 
 ## License
