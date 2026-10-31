@@ -50,7 +50,7 @@ The six built-in challenges work with no model.
 ### Turn on Gemma 4
 
 1. Install Ollama from https://ollama.com
-2. Download the model (about 7 GB): `ollama pull gemma4:e2b`
+2. Download the model: `ollama pull gemma4:e2b`. Download size varies by model version and quantization; our tested download was approximately 4.6 GB.
 3. Make sure Ollama is running, then start the app. The sidebar shows **Gemma 4 ready**.
 
 Options: set `GEMMA_MODEL` to change the model (for example `gemma4:e4b`), or set `OLLAMA_URL` if Ollama runs on another machine.
